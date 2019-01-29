@@ -575,8 +575,8 @@ lib/python/Plugins/SystemPlugins/HdmiCEC/Makefile
 lib/python/Plugins/SystemPlugins/Hotplug/Makefile
 lib/python/Plugins/SystemPlugins/Hotplug/meta/Makefile
 lib/python/Plugins/SystemPlugins/NetworkBrowser/Makefile
-libpython/Plugins/SystemPlugins/NetworkBrowser/icons/Makefile
-libpython/Plugins/SystemPlugins/NetworkBrowser/locale/Makefile
+lib/python/Plugins/SystemPlugins/NetworkBrowser/icons/Makefile
+lib/python/Plugins/SystemPlugins/NetworkBrowser/locale/Makefile
 lib/python/Plugins/SystemPlugins/NetworkWizard/Makefile
 lib/python/Plugins/SystemPlugins/NetworkWizard/meta/Makefile
 lib/python/Plugins/SystemPlugins/PositionerSetup/Makefile
