@@ -569,6 +569,7 @@ lib/python/Plugins/SystemPlugins/AnimationSetup/Makefile
 lib/python/Plugins/SystemPlugins/CableScan/Makefile
 lib/python/Plugins/SystemPlugins/CommonInterfaceAssignment/Makefile
 lib/python/Plugins/SystemPlugins/CommonInterfaceAssignment/meta/Makefile
+lib/python/Plugins/SystemPlugins/DiseqcTester/Makefile
 lib/python/Plugins/SystemPlugins/DiseqcTester/meta/Makefile
 lib/python/Plugins/SystemPlugins/FastScan/Makefile
 lib/python/Plugins/SystemPlugins/HdmiCEC/Makefile
