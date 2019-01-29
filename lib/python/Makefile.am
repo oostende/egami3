@@ -1,3 +1,3 @@
-SUBDIRS = Components EGAMI Tools Screens Plugins
+SUBDIRS = Components Tools Screens Plugins
 
 
