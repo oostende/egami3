@@ -527,6 +527,8 @@ Makefile
 data/Makefile
 data/fonts/Makefile
 data/egami_skin_default/Makefile
+data/egami_skin_default/slider/Makefile
+data/egami_skin_default/menu/Makefile
 data/keymaps/Makefile
 data/displaytext/Makefile
 data/display96/Makefile
