@@ -1,4 +1,4 @@
-installdir = $(pkglibdir)/python/Plugins/SystemPlugins/ToolKit
+installdir = $(pkglibdir)/python/Plugins/SystemPlugins/Toolkit
 
 install_PYTHON =	\
 	__init__.pyo \
