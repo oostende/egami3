@@ -46,4 +46,4 @@ if HAVE_OSDANIMATION
 SUBDIRS += AnimationSetup
 endif
 
-install_PYTHON = __init__.py
+install_PYTHON = __init__.pyo
